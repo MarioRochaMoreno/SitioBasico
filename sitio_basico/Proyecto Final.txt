@@ -1,0 +1,19 @@
+Se realizara una página principal, donde vendra una pequeña descripción de la misma
+En la misma página principal llevara un "menu"
+Utilizarán Imagenes acordes a su tema, las cuales tendrán que estar preparadas para verse bien
+(no pixeleadas, no cortadas)
+Utilizaran al menos 2 páginas con estilo por separado (archivo.css)
+Podrán subir un video realizado por ustedes de acuerdo al tema.
+Contendra un formulario
+En total serán 4 páginas creadas con Estilo
+-  1 Página inicial (index)
+-  2 Página de información de su Proyecto (acerca de)
+-  3 formulario (ya lo tienen)
+-  4 página sera la tarea que hicieron desde la segunda semana 
+Generar un video sobre el tema elegido (mp4)
+Estructura del Proyecto
+Carpeta del Proyecto
+  -carpeta Imagenes
+  -carpeta css
+  -carpeta videos
+  -páginas htlm 

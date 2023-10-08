@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Esta es la descripción de mi sitio web">
+    <meta name="keywords" content="fime, técnica desarrrollo web, learn">
+    <meta name="robots" content="NOINDEX, NOFOLLOW, TRANSLATE">
+    <meta name="author" content="FIME">
+  <title>Selectores Básicos</title>
+  <style>
+    /* Element Selectors */
+    body {
+      background-color: green;
+    }
+    /* . is for classes */
+    .primary-heading {
+      color: red;
+    }
+    /* # is for IDs */
+    #welcome {
+      background-color: #fffaec;
+    }
+    /* Multiple Selectors */
+    #welcome, #about {
+      border:10px solid #453acd;
+     padding: 10px;
+      margin-bottom: 24px;
+    }
+    /* Nested Selectors */
+    #welcome p {
+      font-size: 10px;
+    }
+    #about {
+      color: #b86921 ;
+    }
+    #about p {
+        font-size: 20px;
+        color: darkred;
+    }
+    h3{
+      color:#6a274f;
+    }
+  </style>
+</head>
+<body>
+  <div id="welcome">
+    <h2 class="primary-heading">Welcome</h2>
+    <h3> Bienvenidos </h3>
+    <p>Esta semana veremos el uso de código en css para generar estilos</p>
+  </div>
+  <div id="about">
+    <h2>About</h2>
+      <h3>Welcome</h3>
+    <p>Esta semana veremos el uso de código en css para generar estilos</p>
+  </div>
+</body>
+</html>
